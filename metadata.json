@@ -1,0 +1,5 @@
+{
+  "name": "PromptMessenger",
+  "description": "Générateur de prompts personnalisés pour parler à une personne réelle via un LLM (producteur, ami, assistant, client…). L’utilisateur fournit le message brut et quelques infos sur la personne, l’app génère deux blocs de prompt (CONTENU + STYLE) et un prompt fusionné prêt à être collé dans n'importe quel LLM.",
+  "requestFramePermissions": []
+}
